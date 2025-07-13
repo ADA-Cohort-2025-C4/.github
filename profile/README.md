@@ -1,13 +1,99 @@
-## ADA-Cohort-2025-C4 🔊
 
-### 🔊뭔소리야 Team🔊
-<!--
+### 💨 SOOM - 숨 쉬는 편안한 일상
 
-**Here are some ideas to get you started:**
+<div align="center">
+  <h1>SOOM - 숨 쉬는 편안한 일상</h1>
+  <p>💨 호흡 재활 의료 보조 서비스 💨 </p>
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br/>
+
+<div align="center">
+</div>
+
+<br/>
+
+---
+
+## 📑 프로젝트 개요
+
+- **프로젝트명:** SOOM
+- **프로젝트 기간:** 2025.07. ~ 2025.08
+- **프로젝트 형태:** Apple Developer Academy @ POSTECH 2025 COHORT 
+- **목표:** COPD 환자와 같은 호흡을 통한 재활치료가 필요한 사람들의 호흡을 도와주는 의료 보조 서비스
+- **주요 타겟 사용자:** COPD 환자를 포함한 호흡에 어려움을 겪는 사람
+
+---
+
+## 📑 프로젝트 소개
+
+### 프로젝트 배경
+
+- 같은 문제점이 있었습니다:
+
+1. **-문제 1** 
+
+2. **-문제 2** 
+
+3. **-문제 3** 
+
+**SOOM**은 위 문제를 해결하기 위해 -  제공하는 서비스입니다.
+
+---
+
+## 🚀 프로젝트 목표
+
+1. **목표1** 
+
+2.  **목표2** 
+
+3.  **목표3** 
+
+---
+
+## 📌 주요 기능
+
+### **0. 회원가입 | 로그인**
+
+#### **회원가입**
+
+<div align="center">
+<img src="./assets/회원가입.gif" alt="회원가입" style="border-radius: 10px; width: 700px;"/>
+</div>
+
+---
+
+## 🧑‍💻 팀원 소개
+
+| **이름**    | **역할**        | 
+|:-----------:|:---------------:|
+| Isla      |         | 
+| Eddey      |            | 
+| Herry      |            | 
+| Miru      |           | 
+| Seo      |          | 
+| Ari      |         | 
+
+
+---
+
+## 🛠️ 기술 스택
+
+<table>
+  <thead>
+    <tr>
+      <th>분류</th>
+      <th>기술 스택</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
